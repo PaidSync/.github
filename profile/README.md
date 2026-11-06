@@ -24,7 +24,7 @@ Verified Meta Business Partner, LinkedIn Marketing Partner, TikTok Marketing Par
 {
   "mcpServers": {
     "paidsync": {
-      "url": "https://paidsync.ai/mcp?key=YOUR_API_KEY"
+      "url": "https://mcp.paidsync.ai/mcp"
     }
   }
 }
