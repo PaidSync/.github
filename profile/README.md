@@ -2,14 +2,14 @@
 
 The MCP server for running paid media with AI.
 
-**One MCP. Eight platforms. 380+ tools. Full read and write across Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads, GTM, GA4, Google Search Console, and Google Merchant Center.**
+**One MCP. 14 platforms. 630+ tools. Read and write across Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads, Microsoft Ads, ChatGPT Ads, Snapchat Ads, Reddit Ads, Pinterest Ads, X Ads, GTM, GA4, and Google Merchant Center, plus read-only Google Search Console.**
 
 Verified Meta Business Partner, LinkedIn Marketing Partner, TikTok Marketing Partner. Founder is a Google Premier Partner (top 3 percent globally).
 
 ## Quick links
 
 - **Website**: https://paidsync.ai
-- **Sign up (free, 15 calls/month)**: https://paidsync.ai/signup
+- **Sign up (free, 100 tasks/month)**: https://paidsync.ai/signup
 - **Pricing**: https://paidsync.ai/pricing
 - **Documentation**: https://paidsync.ai/docs
 - **MCP server card**: https://paidsync.ai/.well-known/mcp/server-card.json
